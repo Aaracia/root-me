@@ -1,9 +1,23 @@
-HTML 
+. HTML
 
-HTTP - Open redirect
+[+] URL: http://challenge01.root-me.org/web-serveur/ch1/
 
-Injection de commande
+[+] Solution: flag in source html
 
-Mot de passe faible
+[+] Flag: nZ^&@q5&sjJHev0
 
-User-agent
+2. Weak password
+
+[+] URL: http://challenge01.root-me.org/web-serveur/ch3/
+
+[+] Solution: admin/admin
+
+[+] Flag: admin
+
+3. User-agent
+
+[+] URL: http://challenge01.root-me.org/web-serveur/ch2/
+
+[+] Solution: change user-agent is admin
+
+[+] Flag: rr$Li9%L34qd1AAe27
